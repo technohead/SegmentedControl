@@ -55,6 +55,10 @@ public class SegmentData<D> {
         return segmentData;
     }
 
+    public void setSegmentData(D value) {
+        this.segmentData = value;
+    }
+
     public OnSegmentClickListener<D> getOnSegmentClickListener() {
         return onSegmentClickListener;
     }
