@@ -6,6 +6,7 @@ import segmented_control.widget.custom.android.com.segmentedcontrol.listeners.On
 
 /**
  * Created by Robert Apikyan on 9/7/2017.
+ * Modified by Dennis Lee
  */
 
 public class SegmentData<D> {
